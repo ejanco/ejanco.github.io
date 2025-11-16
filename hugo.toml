@@ -6,3 +6,7 @@ theme = 'ananke'
 [params]
   description = 'Personalized One on One Youth Baseball Instruction'
   featured_image = '/images/fenway.jpg'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
