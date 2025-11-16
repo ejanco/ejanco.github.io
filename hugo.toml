@@ -1,0 +1,8 @@
+baseURL = 'https://ejanco.github.io/'
+languageCode = 'en-us'
+title = 'Janco Baseball Training'
+theme = 'ananke'
+
+[params]
+  description = 'Personalized One on One Youth Baseball Instruction'
+  featured_image = '/images/fenway.jpg'
